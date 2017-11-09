@@ -1,0 +1,29 @@
+header {
+  background-color: #e0ccff;
+}
+
+main {
+  background-color: #fff0b3;
+}
+
+h1 {
+  color: red;
+}
+
+p {
+  font-size: 1.5em;
+  color: #334990;
+}
+
+div {
+  border-style: solid;
+  border-width: 2px;
+  border-color: #ff1aff;
+  height: 50px;
+}
+
+button {
+  width: 25%;
+  height: 50px;
+  align: center;
+}
