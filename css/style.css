@@ -1,5 +1,12 @@
-header {
+@font-face {
+  font-family: "Hind", Verdana, sans-serif;
+  src: url("../fonts/HInd-Light.ttf")
+
+Header {
   background-color: #e0ccff;
+  border-style: groove;
+  border-color: #8000ff
+  border-width: 5px;
 }
 
 main {
@@ -19,11 +26,13 @@ div {
   border-style: solid;
   border-width: 2px;
   border-color: #ff1aff;
-  height: 50px;
+  height: 70px;
+  padding: 2px;
 }
 
 button {
-  width: 25%;
+  width: 32%;
   height: 50px;
-  align: center;
+  float: left;
+  margin: 3px;
 }
